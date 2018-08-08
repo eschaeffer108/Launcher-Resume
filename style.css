@@ -1,0 +1,32 @@
+.page-header {
+  font-family: fantasy;
+  color: #ff0000;
+  text-align: center;
+  font-weight: bold;
+  font-size: 300%;
+  text-decoration: underline;
+}
+
+
+bio {
+  width: 25%;
+  margin: 20px auto;
+  text-align: center;
+
+}
+
+
+.profile-pic {
+  margin: 25px auto;
+  width: 20%;
+  height: 15%;
+  border-radius: 50%;
+}
+img {
+  width: 100%;
+}
+
+description {
+  text-align: center;
+  font-weight: bold;
+}
